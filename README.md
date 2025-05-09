@@ -46,16 +46,6 @@
 
 ---
 
-### 🚀 Highlighted Projects
-
-- 🔹 [E-Commerce App](https://github.com/yourusername/ecommerce-app)  
-  *A fully featured shopping app built with Flutter + Firebase, applying Clean Architecture principles.*
-
-- 🔹 [News Aggregator](https://github.com/yourusername/news-app)  
-  *A beautiful news app with dark mode, using REST APIs and responsive UI.*
-
----
-
 ### 🌐 Let's Connect
 
 <p align="center">
